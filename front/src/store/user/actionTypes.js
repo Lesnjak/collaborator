@@ -1,0 +1,16 @@
+﻿export const FETCH_USER_DATA = 'FETCH_USER_DATA';
+
+export const VERIFY_USER = 'VERIFY_USER';
+export const VERIFY_USER_FAIL = 'VERIFY_USER_FAIL';
+
+export const RESET_VERIFY_CODE = 'RESET_VERIFY_CODE';
+
+
+
+
+export const REQUEST_PASSWORD_RESET = 'REQUEST_PASSWORD_RESET';
+
+export const RESET_PASSWORD = 'RESET_PASSWORD';
+
+
+export const MESSAGE_RESET = 'MESSAGE_RESET'

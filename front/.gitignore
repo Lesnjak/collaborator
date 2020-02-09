@@ -1,0 +1,4 @@
+node_modules/
+spec_docs/
+.env
+

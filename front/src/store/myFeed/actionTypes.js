@@ -1,0 +1,1 @@
+﻿export const FETCH_GET_ALL_CARDS = 'FETCH_GET_ALL_CARDS';

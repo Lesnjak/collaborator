@@ -1,0 +1,6 @@
+@import './styles/index.css';
+
+
+#root{
+    min-width: 320px;
+}
